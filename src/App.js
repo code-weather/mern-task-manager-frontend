@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app">
       <div className="task-container">
-        <TaskList />
+        <TaskList/>
       </div>
       <ToastContainer />
     </div>
